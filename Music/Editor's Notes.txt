@@ -1,0 +1,11 @@
+---WRESTLING---
+---- ENCORE ----
+www.MDickie.com
+mat@mdickie.com
+
+EDITING THEMES
+When replacing themes, or adding your own, it's important to keep the file names and file types consistent. The game will automatically load every correctly named file in the folder - searching for MP3's first and then finding WAV's as a last resort. If you add new ones, or change the order, it is ESSENTIAL that you make sure there are no gaps in the sequence of numbers! The game may crash if a compatible file cannot be found...
+
+It's also important to consider that the game assumes all WAV's have a frequency of 22050kHz by default (except for themes 26-42 which are 8000kHz, and the title theme which is 44010kHz). You are strongly advised to obey these settings so that the pitch options remain intact...
+
+* You are advised to show restraint when expanding the selection. Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of themes. Although it's safe to do so, it could ruin the gimmicks of the default characters...

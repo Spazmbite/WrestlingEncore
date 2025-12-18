@@ -1,0 +1,9 @@
+---WRESTLING---
+---- ENCORE ----
+www.MDickie.com
+mat@mdickie.com
+
+EDITING COSTUMES
+When replacing costumes, or creating your own, it's important to keep the file names and file types consistent. All images should be JPEG format, and you are advised to use the same picture size. The game will automatically load every correctly named file in the folders. If you add new ones, or change the order, it is ESSENTIAL that you make sure there are no gaps in the sequence of numbers! The game will crash if the number of files is out of synch with the file names...
+
+You are advised to show restraint when expanding the selection. Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of costumes. Although it's safe to do so, it could ruin the costumes of the default characters...
